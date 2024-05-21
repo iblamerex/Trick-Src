@@ -1,2 +1,4 @@
 # Trick-Src
-Official Trick Bot Src Leaked by ReXx and Adarsh
+Official Trick Bot Src Developed by ReXx and Adarsh in Python
+
+# Screenshot
